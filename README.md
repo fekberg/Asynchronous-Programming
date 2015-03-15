@@ -1,4 +1,5 @@
-# Asynchronous-Programming
+# Asynchronous Programming
+This is a breakdown/time line for my talk on Asynchronous Programming
 
 ## 0 - 5 minutes
 - Introduction, Agenda and setting the expectations
