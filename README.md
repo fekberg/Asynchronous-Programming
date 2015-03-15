@@ -1,7 +1,7 @@
 # Asynchronous-Programming
 
 ## 0 - 5 minutes
-	Introduction, Agenda and setting the expectations
+- Introduction, Agenda and setting the expectations
 
 ## 5 - 10 minutes (5 minutes)
 ### What?
